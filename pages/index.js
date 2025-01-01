@@ -9,14 +9,14 @@ export default function Home() {
   return (
     <div className={`container ${darkMode ? 'dark-mode' : ''}`}>
       <Head>
-        <title>Tech Blog</title>
+        <title>Sezer Can Kaynar Blog</title>
         <meta name="description" content="Technology blog with latest insights" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <div className="header">
-          <h1>Tech Blog</h1>
+          <h1>Sezer Can Kaynar Blog</h1>
           <button onClick={toggleDarkMode} className="theme-toggle">
             {darkMode ? '☀️ Açık Tema' : '🌙 Koyu Tema'}
           </button>
