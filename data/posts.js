@@ -31,7 +31,7 @@ Node.js ile Başlangıç:
 5. Veritabanı Entegrasyonu
 
 Node.js, modern web uygulamalarının vazgeçilmez bir parçası haline gelmiştir. Özellikle mikroservis mimarisi ve real-time uygulamalarda sunduğu avantajlar, onu tercih edilen bir teknoloji yapmaktadır.`,
-    author: "Ahmet Yılmaz",
+    author: "Sezer Can Kaynar",
     date: "2024-01-01"
   },
   {
@@ -81,7 +81,7 @@ React Ekosistemi:
 - React Testing Library: Test yazımı
 
 React'in sunduğu deklaratif programlama yaklaşımı ve zengin ekosistemi, onu modern web uygulamaları geliştirmek için ideal bir seçenek haline getirmektedir.`,
-    author: "Zeynep Kaya",
+    author: "Sezer Can Kaynar",
     date: "2024-01-02"
   },
   {
@@ -140,7 +140,7 @@ Tailwind CSS Ekosistemi:
 - Forms plugin
 
 Tailwind CSS, modern web tasarımında hızlı prototipleme ve tutarlı UI geliştirme imkanı sunar. Özellikle React, Vue gibi modern frontend framework'leri ile birlikte kullanıldığında çok güçlü bir geliştirme deneyimi sağlar.`,
-    author: "Mehmet Demir",
+    author: "Sezer Can Kaynar",
     date: "2024-01-03"
   },
   {
@@ -210,7 +210,7 @@ Best Practices:
 - Logging stratejileri
 
 MongoDB ve Mongoose kombinasyonu, modern web uygulamalarında esnek ve güçlü bir backend altyapısı sunar. Özellikle Node.js ile birlikte kullanıldığında, tam yığın JavaScript geliştirme deneyimi sağlar.`,
-    author: "Ayşe Yıldız",
+    author: "Sezer Can Kaynar",
     date: "2024-01-04"
   },
   {
@@ -297,7 +297,7 @@ Best Practices:
 - Failover yönetimi
 
 Redis, modern web uygulamalarında performans optimizasyonu ve ölçeklenebilirlik için vazgeçilmez bir araç haline gelmiştir. Özellikle yüksek trafikli uygulamalarda, caching ve real-time özellikler için ideal bir çözüm sunar.`,
-    author: "Can Özkan",
+    author: "Sezer Can Kaynar",
     date: "2024-01-05"
   }
 ]; 
