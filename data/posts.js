@@ -776,5 +776,212 @@ Security Best Practices:
 Modern güvenlik pratikleri, güvenli ve güvenilir uygulamalar geliştirmek için kritik öneme sahiptir.`,
     author: "Sezer Can Kaynar",
     date: "2024-01-15"
+  },
+  {
+    id: 16,
+    title: "Modern Frontend Build Tools: Vite ve Turbopack",
+    excerpt: "Modern web geliştirmede build araçlarının önemi ve yeni nesil çözümler.",
+    content: `Modern web geliştirmede build araçları, geliştirme deneyimini ve uygulama performansını önemli ölçüde etkiler.
+
+Vite'ın Özellikleri:
+
+1. Dev Server:
+- ES Modules native support
+- Hot Module Replacement (HMR)
+- Instant server start
+- Optimized builds
+- Plugin ecosystem
+
+2. Build Optimizasyonu:
+- Code splitting
+- Tree shaking
+- Asset handling
+- Dynamic imports
+- CSS handling
+
+Turbopack'in Yenilikleri:
+
+1. Rust-based Architecture:
+- Incremental compilation
+- Persistent caching
+- Parallel processing
+- Memory efficiency
+- TypeScript native support
+
+2. Performance Features:
+- Lazy compilation
+- Smart bundling
+- Development optimization
+- Production optimization
+- Module federation
+
+Modern build tooling, geliştirme sürecini hızlandırır ve daha verimli uygulamalar oluşturmayı sağlar.`,
+    author: "Sezer Can Kaynar",
+    date: "2024-01-16"
+  },
+  {
+    id: 17,
+    title: "Modern Backend Architecture: NestJS Framework",
+    excerpt: "Enterprise Node.js uygulamaları için modern bir framework olan NestJS'in detaylı incelemesi.",
+    content: `NestJS, Angular'dan ilham alan, TypeScript tabanlı ve enterprise-grade Node.js uygulamaları geliştirmek için tasarlanmış modern bir backend framework'üdür.
+
+NestJS'in Temel Yapıları:
+
+1. Core Concepts:
+- Modules
+- Controllers
+- Providers
+- Dependency Injection
+- Middleware
+
+2. Advanced Features:
+- Guards
+- Interceptors
+- Pipes
+- Exception filters
+- Custom decorators
+
+3. Microservices Support:
+- TCP/UDP transport
+- gRPC integration
+- Message patterns
+- Event-based communication
+- Hybrid applications
+
+Architecture Patterns:
+
+1. Application Structure:
+- SOLID principles
+- Clean Architecture
+- Repository pattern
+- Service layer
+- DTO pattern
+
+NestJS, modern backend uygulamaları için güçlü ve ölçeklenebilir bir çözüm sunar.`,
+    author: "Sezer Can Kaynar",
+    date: "2024-01-17"
+  },
+  {
+    id: 18,
+    title: "Modern API Design: REST vs gRPC vs GraphQL",
+    excerpt: "Modern API tasarım yaklaşımlarının karşılaştırmalı analizi ve kullanım senaryoları.",
+    content: `Modern web uygulamalarında API tasarımı için farklı yaklaşımlar bulunmaktadır ve her birinin kendine özgü avantajları vardır.
+
+REST API:
+
+1. Karakteristik Özellikler:
+- Resource-based
+- Stateless
+- Uniform interface
+- CRUD operations
+- HTTP methods
+
+gRPC:
+
+1. Temel Özellikler:
+- Protocol Buffers
+- Bi-directional streaming
+- Code generation
+- Type safety
+- High performance
+
+GraphQL:
+
+1. Ana Özellikler:
+- Query language
+- Schema definition
+- Resolvers
+- Type system
+- Single endpoint
+
+Karşılaştırmalı Analiz:
+
+1. Performans:
+- Network overhead
+- Payload size
+- Caching strategies
+- Real-time capabilities
+- Mobile optimization
+
+Her yaklaşım farklı kullanım senaryoları için optimize edilmiştir ve projenin ihtiyaçlarına göre seçim yapılmalıdır.`,
+    author: "Sezer Can Kaynar",
+    date: "2024-01-18"
+  },
+  {
+    id: 19,
+    title: "Modern Frontend Performance Optimization",
+    excerpt: "Web performansını artırmak için modern teknikler ve best practices.",
+    content: `Web performansı, kullanıcı deneyimi ve SEO açısından kritik öneme sahiptir ve modern web uygulamalarında sürekli optimize edilmesi gerekir.
+
+Core Web Vitals:
+
+1. Loading Performance:
+- Largest Contentful Paint (LCP)
+- First Input Delay (FID)
+- Cumulative Layout Shift (CLS)
+- Time to First Byte (TTFB)
+- First Contentful Paint (FCP)
+
+2. Optimization Techniques:
+
+Code Optimization:
+- Code splitting
+- Tree shaking
+- Lazy loading
+- Bundle analysis
+- Dead code elimination
+
+Asset Optimization:
+- Image optimization
+- Font loading
+- Resource hints
+- Preloading
+- Caching strategies
+
+Modern performans optimizasyonu, kullanıcı deneyimini iyileştirmek için vazgeçilmezdir.`,
+    author: "Sezer Can Kaynar",
+    date: "2024-01-19"
+  },
+  {
+    id: 20,
+    title: "Modern Frontend Architecture: Micro Frontends",
+    excerpt: "Micro frontend mimarisi ve modern web uygulamalarındaki uygulama stratejileri.",
+    content: `Micro frontend mimarisi, büyük frontend uygulamalarını bağımsız ve yönetilebilir parçalara ayırma yaklaşımıdır.
+
+Temel Konseptler:
+
+1. Architecture Patterns:
+- Module Federation
+- Web Components
+- IFrames
+- Custom Elements
+- Composition patterns
+
+2. Integration Strategies:
+- Build-time integration
+- Run-time integration
+- Server-side composition
+- Client-side composition
+- Hybrid approaches
+
+Implementation Concerns:
+
+1. Technical Challenges:
+- Shared dependencies
+- State management
+- Routing
+- Styling isolation
+- Communication patterns
+
+2. Development Experience:
+- Team autonomy
+- Deployment strategy
+- Testing approach
+- CI/CD pipeline
+- Monitoring
+
+Micro frontend mimarisi, büyük ölçekli frontend uygulamalarının yönetimini kolaylaştırır.`,
+    author: "Sezer Can Kaynar",
+    date: "2024-01-20"
   }
 ]; 
